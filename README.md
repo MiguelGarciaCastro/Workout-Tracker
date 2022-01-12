@@ -19,3 +19,5 @@ Currently this project is deployed here, but can also be ran locally if you so d
 
 <img width="1792" alt="Screen Shot 2022-01-12 at 2 49 51 PM" src="https://user-images.githubusercontent.com/87445858/149211922-f5fd7076-bc8e-4e16-b975-5377c3d77786.png">
 3fa75886fac.png">
+
+<img width="1792" alt="Screen Shot 2022-01-12 at 2 50 00 PM" src="https://user-images.githubusercontent.com/87445858/149211999-e4f064d8-5926-491e-9c64-57e1cd7bdc4e.png">
