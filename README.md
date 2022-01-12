@@ -1,8 +1,9 @@
 # Workout-Tracker
 
+github url -> https://github.com/MiguelGarciaCastro/Workout-Tracker.git
+
 #Description
 
-Description
 Workout-Tracker provides the user with plenty of functionality to help them reach their fitness goals. Users are able to...
 
 Log multiple exercises in a workout
