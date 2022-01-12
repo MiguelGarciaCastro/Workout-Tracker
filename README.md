@@ -29,4 +29,4 @@ Please install required dependencies using the following code: npm install expre
 Usage
 
 Once you have installed the required dependencies, run the app using the following code in your terminal: npm run start.
-OR... if you'd just like to use the app on the Heroku website host, you can access it here:
+OR... if you'd just like to use the app on the Heroku website host, you can access it here: https://workout-tracker-workout.herokuapp.com/
