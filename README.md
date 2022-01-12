@@ -22,3 +22,11 @@ Currently this project is deployed here, but can also be ran locally if you so d
 3fa75886fac.png">
 
 <img width="1792" alt="Screen Shot 2022-01-12 at 2 50 00 PM" src="https://user-images.githubusercontent.com/87445858/149211999-e4f064d8-5926-491e-9c64-57e1cd7bdc4e.png">
+
+
+Please install required dependencies using the following code: npm install express, and npm install mongoose.
+
+Usage
+
+Once you have installed the required dependencies, run the app using the following code in your terminal: npm run start.
+OR... if you'd just like to use the app on the Heroku website host, you can access it here:
